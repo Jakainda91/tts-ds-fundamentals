@@ -1,0 +1,27 @@
+# Compiled python modules.
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# IDE specific
+.idea/
+.vscode/
+
+#PyPi
+.eggs
+dist/
+stockscore.egg-info/
+build
+
+# Coverage reports
+.coverage
+coverage.xml
+
+# Virtual environment
+venv/
+
+# Mac specific
+.DS_Store
+
+# Doc buils
+docs/build
